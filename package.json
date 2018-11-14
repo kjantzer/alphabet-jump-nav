@@ -1,0 +1,8 @@
+{
+  "name": "alphabet-jump-nav",
+  "version": "1.0.0",
+  "description": "A mobile friendly alphabetical side navigation to quickly jump between sections of a list.",
+  "main": "index.js",
+  "author": "Kevin Jantzer",
+  "license": "MIT"
+}
